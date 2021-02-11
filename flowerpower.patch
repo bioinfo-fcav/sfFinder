@@ -1,0 +1,542 @@
+diff -ruN ./assign_seqs_to_shmms ./assign_seqs_to_shmms
+--- ./assign_seqs_to_shmms	2013-02-12 15:44:06.000000000 -0200
++++ ./assign_seqs_to_shmms	2021-02-10 15:55:57.311318103 -0300
+@@ -33,15 +33,15 @@
+     elif title.find(" ") != -1:
+         title = string.split(title)[0]
+ 
+-    # Limit to 15 chars.
++    # Limit to 100 chars.
+ 
+-    title = title[0:15]
++    title = title[0:100]
+     return title
+     
+ 
+ # ------------------------------------------------------------------------------
+ def heading_line():
+-  print "%-15s %-26s %-12s %-12s%-8s%-12s%-12s%-12s" \
++  print "%-100s %-26s %-12s %-12s%-8s%-12s%-12s%-12s" \
+      % ("#Sequence", \
+                "Best HMM", \
+                      "MLength", \
+@@ -448,7 +448,7 @@
+             
+         heading_line()
+         for match in s:
+-            print "%-15s %-30s %-8d %-12.2f%-12.2f%-12.2f%-7.2f %e" \
++            print "%-100s %-30s %-8d %-12.2f%-12.2f%-12.2f%-7.2f %e" \
+                      % (match['seq_id'], match['shmm'], match["model_length"], \
+                         match['simple'], match['reverse'], \
+                         match['simple_amortized'], match['reverse_amortized'], \
+@@ -462,7 +462,7 @@
+         for key in sequence_ids.keys():
+             matches = sequence_ids[key]
+             for match in matches:
+-                print "%-15s %-30s %-8d %-12.2f%-12.2f%-12.2f%-7.2f %e" \
++                print "%-100s %-30s %-8d %-12.2f%-12.2f%-12.2f%-7.2f %e" \
+                      % (key, match['shmm'], match["model_length"], \
+                         match['simple'], match['reverse'], \
+                         match['simple_amortized'], match['reverse_amortized'], \
+@@ -471,11 +471,11 @@
+         print
+ 
+     if SUBFAM != None:
+-        print "%-30s% -30s% -30s" % ("#Sequence", "Best HMM", "Actual SHMM")
++        print "%-100s% -30s% -30s" % ("#Sequence", "Best HMM", "Actual SHMM")
+         for key in best_matches.keys():
+             match = best_matches[key]
+             subfam = subfamily_memberships[key]
+-            print "%-30s% -30s% -30s" % (key, match['shmm'], subfam)
++            print "%-100s% -30s% -30s" % (key, match['shmm'], subfam)
+     print
+ 
+     shmms_with_assigned_sequences = set([])
+diff -ruN ./flowerpower.pl ./flowerpower.pl
+--- ./flowerpower.pl	2013-02-12 15:44:06.000000000 -0200
++++ ./flowerpower.pl	2021-02-10 15:55:57.311318103 -0300
+@@ -1,4 +1,4 @@
+-#!/usr/bin/perl -w
++#!/usr/bin/env perl
+ ##!/usr/bin/perl -d:DProf # Use this line to profile this script (see dprofpp).
+ 
+ ##--- This is a new version of Flowerpower. 
+@@ -10,6 +10,7 @@
+ use warnings;
+ use Getopt::Long;
+ use File::Temp qw/tempdir/;
++use Carp;
+ 
+ my $major_version = 2;
+ my $minor_version = 3;
+@@ -23,6 +24,7 @@
+ my $pwid = 0.20;
+ my $DB = "UniProt/current/protein";
+ my $MUSCLE_MAXITERS = 2;
++my $TCOFFEE_MAXITERS = 2;
+ my $PSIBLAST_ITERS = 3;
+ my $PBEVALUE = 10;
+ my $FPMAXEVALUE = -1;  # Default - depends on seed sequence length.
+@@ -57,11 +59,13 @@
+ my $initial_max_gap = 30;
+ my $initial_min_coverage = 0;
+ my $excess_homologs_flag = 0;
++my $num_threads=1;
+ 
+ # # DMS 08/03/09 - used when the number of homologs exceeds FPHITS
+ my $uncropped_seed_id = "";
+ 
+ GetOptions (
++           "-t=i" => \$num_threads,
+            "-i=s" => \$seedfile,
+            "-a=s" => \$msafile,
+            "-n=i" => \$niters,
+@@ -116,6 +120,8 @@
+ unless ( -e $seedfile || -e $msafile ){
+    print <<EOF;
+ Arguments
++
++  -t            Number of threads (default: 1)
+   -i            Source sequence filename if starting from seed.
+   -a            Alignment file if starting from MSA.
+   -n            Number of SHMMs iterations (default: 3).
+@@ -292,6 +298,8 @@
+    $seedfile = "seed.fa";
+    $seedid = fasta2id($seed[0]);
+    $seedseq = $seed[1];
++
++   $seedmaster = 1;
+ } else {
+   # Can only use the msa to build a profile if we have an msa
+   $msa_profile = 0;
+@@ -444,11 +452,13 @@
+        if ( $ii > 0 ) {
+           print BDKLOGFILE "Re-running...\n";
+        }
+-       $return_value = system("formatdb -o T -i universe.fa");
++       #$return_value = system("formatdb -o T -i universe.fa");
++       $return_value = system("makeblastdb -in universe.fa -dbtype prot -parse_seqids");
+        $ii++;
+     }
+     if ($return_value != 0) {
+-       print "ERROR: formatdb exited with non-zero value $return_value\n";
++       #print "ERROR: formatdb exited with non-zero value $return_value\n";
++       print "ERROR: makeblastdb exited with non-zero value $return_value\n";
+        exit 1;
+     }
+     if($msafile) {
+@@ -464,9 +474,11 @@
+ } else {
+     print "  Starting PSI-BLAST ($PSIBLAST_ITERS iterations) to retrieve candidate set... ";  
+     if ($msa_profile) {
+-      blastpgp($seedfile, "pb", $msafile); 
++      psiblast($seedfile, "pb", $msafile);
++      #blastpgp($seedfile, "pb", $msafile); 
+     } else {
+-      blastpgp($seedfile, "pb", ""); 
++      psiblast($seedfile, "pb", "");
++      #blastpgp($seedfile, "pb", ""); 
+     }
+     print "done.\n";
+     if ($debug1) {
+@@ -478,7 +490,8 @@
+        print "Making unique\n";
+        makeunique("universe.fa");
+     }
+-    `formatdb -o T -i universe.fa`;
++    #`formatdb -o T -i universe.fa`;
++    `makeblastdb -in universe.fa -dbtype prot -parse_seqids`
+  } 
+ 
+ ########################################################################
+@@ -512,7 +525,8 @@
+    trimMSA($msafile, "initial-sel.mus", 0.50);
+ }
+ else {
+-  print BDKLOGFILE "Selecting sequences for MUSCLE alignment\n";  
++  #print BDKLOGFILE "Selecting sequences for MUSCLE alignment\n";  
++  print BDKLOGFILE "Selecting sequences for T_COFFEE alignment\n";  
+   if (createHomologs("pb", "universe.fa")) {
+      if ($debug1) { 
+       print "Creating HMM from seed\n";
+@@ -523,7 +537,16 @@
+          if ( $ii > 0 ) {
+             print BDKLOGFILE "Re-running...\n";
+          }
+-         $return_value = system("w0.5 $seedfile initial.mod >& w0.5.out");
++ 
++         #print BDKLOGFILE "Aligning seedfile ($seedfile) with MUSCLE\n";
++         #muscle($seedfile, "$seedfile.mus");
++         print BDKLOGFILE "Aligning seedfile ($seedfile) with T_COFFEE\n";
++         t_coffee($seedfile, "$seedfile.mus");
++         print BDKLOGFILE "Masking the alignment of seedfile ($seedfile) to remove columns with >50% gap characters\n";
++         trimMSA("$seedfile.mus", "$seedfile-sel.mus", 0.50);
++	 
++         $return_value = system("w0.5 $seedfile-sel.mus initial.mod &> w0.5.out");
++         #$return_value = system("w0.5 $seedfile initial.mod >& w0.5.out");
+          $ii++;
+       }
+       if ($return_value != 0) {
+@@ -539,7 +562,7 @@
+          if ( $ii > 0 ) {
+             print BDKLOGFILE "Re-running...\n";
+          }
+-         $return_value = system("align2model initial-homologs -i initial.mod -db blast-homologs.fa -sw $SW_SCORE -adpstyle 5 >& align2model.out");   
++         $return_value = system("align2model initial-homologs -i initial.mod -db blast-homologs.fa -sw $SW_SCORE -adpstyle 5 &> align2model.out");   
+          $ii++;
+       }
+       if ($return_value != 0) {
+@@ -654,8 +677,10 @@
+     close FILE;
+     if($nseqs > 1 && $pfam == 0)
+     { 
+-       print BDKLOGFILE "Aligning initial set with MUSCLE\n";
+-       muscle("blast-sel.fa", "initial.mus");
++       #print BDKLOGFILE "Aligning initial set with MUSCLE\n";
++       #muscle("blast-sel.fa", "initial.mus");
++       print BDKLOGFILE "Aligning initial set with T_COFFEE\n";
++       t_coffee("blast-sel.fa", "initial.mus");
+        print BDKLOGFILE "Masking the alignment to remove columns with >50% gap characters\n";
+        trimMSA("initial.mus", "initial-sel.mus", 0.50);
+     } elsif ($pfam == 1) {
+@@ -761,9 +786,10 @@
+    {
+       my $id = fasta2id($universe_fa[$i]);
+ 
+-      # assign_seqs_to_shmms truncates IDs at 15 characters, so do so here, too.
++      # assign_seqs_to_shmms truncates IDs at 100 characters, so do so here, too.
+ 
+-      $id = substr( $id, 0, 15 );
++      $id = substr( $id, 0, 100 );
++      $id=~s/\s+//g;
+       if ($id_evalue{$id} > 100) 
+       {
+          splice(@universe_fa, $i, 1);
+@@ -810,7 +836,8 @@
+           # exit 0;
+         }
+ 
+-        print `formatdb -o T -i universe.fa` ;
++        #print `formatdb -o T -i universe.fa` ;
++        print `makeblastdb -in universe.fa -dbtype prot -parse_seqids`;
+         ###--- Determine number of sequences in the alignment.
+          my $nseqs_iter = 0 ;
+          #open (FILE, "< $filename");
+@@ -822,7 +849,7 @@
+            { 
+              print BDKLOGFILE "Re-running...\n";
+            }
+-           $return_value = system("make_nr_at_100_with_dict.py ${filename}-uniq $filename >& make_nr_at_100_with_dict.out");
++           $return_value = system("make_nr_at_100_with_dict.py ${filename}-uniq $filename &> make_nr_at_100_with_dict.out");
+            $ii++;
+         }
+         if ($return_value != 0)
+@@ -967,7 +994,8 @@
+   `cp last.a2m final`;
+   `cp ../universe.fa final`;
+    chdir "final";
+-   print `formatdb -o T -i universe.fa`;
++   #print `formatdb -o T -i universe.fa`;
++   print `makeblastdb -in universe.fa -dbtype prot -parse_seqids`;
+ 
+   ########################################################################
+   ## Get unaligned sequences from last.a2m
+@@ -1010,12 +1038,19 @@
+       {
+          print BDKLOGFILE "Re-running...\n";
+       }
+-      $return_value = system("SCI-PHY last -i last.a2m >& SCI-PHY.out");
++      
++      my $times=0;
++      while( ($times<5)&&(! -e "last.a2m") ) {
++          sleep(1);
++          $times++;
++      }
++      
++      $return_value = system("SCI-PHY last -i last.a2m -nthreads $num_threads > SCI-PHY.last.out 2>&1");
+       $ii++;
+    }
+    if ($return_value != 0)
+    {
+-      print "ERROR: SCI-PHY exited with non-zero value $return_value\n";
++      print "ERROR: SCI-PHY (last) exited with non-zero value $return_value\n";
+       exit 1;
+    }
+ 
+@@ -1032,6 +1067,7 @@
+          print BDKLOGFILE "Re-running...\n";
+       }
+       $return_value = system("assign_seqs_to_shmms -f final.fa --reuse --sw $SW_SCORE -d 5 --dbsize 100000 -b $USE_QUEUE --models *.mod > shmms.score");
++
+       $ii++;
+    }
+    if ($return_value != 0)
+@@ -1078,6 +1114,8 @@
+     my $fa = shift;
+     my $id = $fa;
+ 
++    confess "Missing fasta" unless ($id);
++
+     $id =~ s/^> />/;        # Get rid of blank after ">".
+     $id =~ s/\n.*$//;       # Delete everything after first line.
+     $id =~ s/ .*$//g;       # Delete everything after first blank.
+@@ -1761,6 +1799,17 @@
+     print `$cmd`;
+ }
+ 
++sub t_coffee
++{
++    my $ifn = shift;
++    my $ofn = shift;
++    
++    my $cmd = "t_coffee $ifn -mode mcoffee -outfile $ofn -n_core $num_threads -multi_core msa -distance_matrix_mode slow -output=fasta_aln ";
++    $cmd .= "-iterate $TCOFFEE_MAXITERS >/dev/null 2>&1";
++    
++    print `$cmd`;
++}
++
+ sub identifySeed
+ {
+     my @fa = @_;
+@@ -1830,7 +1879,7 @@
+       $nv = $NPSIHITS;
+     }      
+ 
+-    my $cmd = "blastpgp";
++    my $cmd = "blastpgp -a $num_threads";
+     if ($input_msa ne "") {
+      $return_value = 1;
+      $ii = 0;
+@@ -1848,14 +1897,17 @@
+         print "ERROR: w0.5 in blastpgp exited with nonzero value $return_value\n";
+         exit 1;
+      }
+-     system("model_convert.pl msa_profile.mod msa_profile.psiblast");
++     system("sam2psi msa_profile -modelfile msa_profile.mod");
++     #system("model_convert.pl msa_profile.mod msa_profile.psiblast");
+       
+-     $cmd .= " -R msa_profile.psiblast ";
++     #$cmd .= " -R msa_profile.psiblast ";
++     $cmd .= " -R msa_profile.ckp ";
+     }
+     
+     $cmd .= " -i $ifn -o $ofn -m 9 -j $PSIBLAST_ITERS -I T -b $nb "
+                                                        . "-v $nv -e $PBEVALUE ";
+     $cmd .= "-d $DB -F F";
++    
+     if ($use_bins) {
+       $cmd .= binspec($SEQLEN);
+     }
+@@ -1868,6 +1920,7 @@
+       {
+          print BDKLOGFILE "Re-running...\n";
+       }
++      
+       $return_value = system("$cmd");
+       $ii++;
+    }
+@@ -1878,15 +1931,59 @@
+    }
+ }
+ 
++# ------------------------------------------------------------------------------
++sub psiblast
++{
++    my $ifn = shift;
++    my $ofn = shift;
++    my $input_msa = shift;
++    my $nb = 500;
++    my $nv = 500;
++
++    if (($NPSIHITS > 500) && ($NPSIHITS <= 3000))
++    {
++      $nb = $NPSIHITS;
++      $nv = $NPSIHITS;
++    }      
++
++    my $cmd = "psiblast -num_threads $num_threads -comp_based_stats 1";
++    if ($input_msa ne "") {
++    	$cmd .= " -in_msa $input_msa ";
++    } else {
++    	$cmd .= " -query $ifn "
++    }
++    
++    $cmd .= "-out $ofn -db $DB -seg yes -outfmt 7 -num_iterations $PSIBLAST_ITERS -show_gis -max_target_seqs $nb -evalue $PBEVALUE";
++
++   $return_value = 1;
++   $ii = 0;
++   while ( $return_value != 0 && $ii < $mult_cmd_tries ) 
++   {
++      if ( $ii > 0 )
++      {
++         print BDKLOGFILE "Re-running...\n";
++      }
++      
++      $return_value = system("$cmd");
++      $ii++;
++   }
++   if ($return_value != 0)
++   {
++      print "ERROR: PSIBLAST exited with non-zero value $return_value\n";
++      exit 1;
++   }
++}
+ 
+ # ------------------------------------------------------------------------------
+ sub blast
+ {
+     my $ifn = shift;
+     my $ofn = shift;
+-    my $cmd = "blastall -p blastp -i $ifn -o $ofn -m 9 -e 100 -b 1000 -v 1000 " 
+-                                                       . "-F F -d universe.fa";
++    #    my $cmd = "blastall -a $num_threads -p blastp -i $ifn -o $ofn -m 9 -e 100 -b 1000 -v 1000 " 
++    #                                                   . "-F F -d universe.fa";
+ 
++    my $cmd = "blastp -num_threads $num_threads -query $ifn -out $ofn -outfmt 7 -evalue 100 -num_alignments 1000 -num_descriptions 1000 " 
++                                                       . "-seg no -db universe.fa";
+     print `$cmd`;
+ }
+ 
+@@ -1915,15 +2012,17 @@
+     #print "Subject: $subject\n";
+ 
+     my $subjectId = fasta2id($subject);
+-
+-    print `fastacmd -d $DB -s $subjectId > $subjectId.fa 2>/dev/null`;
++    print `blastdbcmd -entry $subjectId -db $DB -dbtype prot -out $subjectId.fa 2> /dev/null`;
++    #print `fastacmd -d $DB -s $subjectId > $subjectId.fa 2>/dev/null`;
+ 
+     unless (`grep '>' $subjectId.fa`)
+     {
+         print "Could not find $subjectId in UniProt...checking local\n";
+-       my $cmd = "formatdb -i acceptedseqs-orig.fa -o T -l /dev/null";
++        #my $cmd = "formatdb -i acceptedseqs-orig.fa -o T -l /dev/null";
++        my $cmd = "makeblastdb -in acceptedseqs-orig.fa -dbtype prot -parse_seqids 2> /dev/null";
+         print `$cmd`;
+-        print `fastacmd -d acceptedseqs-orig.fa -s $subjectId > $subjectId.fa`;
++        print `blastdbcmd -entry $subjectId -db acceptedseqs-orig.fa -dbtype prot -out $subjectId.fa`;
++        #print `fastacmd -d acceptedseqs-orig.fa -s $subjectId > $subjectId.fa`;
+     }
+ 
+     my @subjectFa = fastaFileToArray("$subjectId.fa");
+@@ -1961,7 +2060,8 @@
+   open (PB_ID_FILE, "> psiblast-hits.id");
+   while (my $line = <FILE>)
+   {
+-     if ($line !~ /^#/)
++     #if ($line !~ /^#/)
++     if (($line !~ /^#/)&&($line !~ /Search has CONVERGED!/) && ($line !~ /^\s*$/))
+      {
+         chomp $line;
+         (my $id, my $evalue) = (split(/\s+/, $line))[1,10];
+@@ -1981,7 +2081,8 @@
+   close FILE;
+   my $nseqs = keys(%id_unique);
+   print BDKLOGFILE "$nseqs sequences retrieved\n";
+-  print `fastacmd -i psiblast-hits.id -o psiblast-hits.fa -d $DB`;
++  print `blastdbcmd -entry_batch psiblast-hits.id -db $DB -dbtype prot -out psiblast-hits.fa`;
++  #print `fastacmd -i psiblast-hits.id -o psiblast-hits.fa -d $DB`;
+   print `cp psiblast-hits.fa blast.fa`;
+ 
+ ########################################################################
+@@ -2014,7 +2115,8 @@
+  
+ 
+  ##--- Check if seed is already present in blast results --
+-
++ my @seed = fastaFileToArray($seed_file);
++ 
+  my $seed_id = fasta2id($seed[0]);
+  my $count = 0;
+  @fa = (); 
+@@ -2037,7 +2139,8 @@
+   {   
+      print BDKLOGFILE "Seed is not present in PSI-BLAST set. Adding seed\n";
+      `cat seed.fa blast.fa > universe.fa`;
+-      print `formatdb -o T -i universe.fa`;
++     #print `formatdb -o T -i universe.fa`;
++     print `makeblastdb -in universe.fa -dbtype prot -parse_seqids`;
+   }
+   if ($debug1)
+   {
+@@ -2154,7 +2257,7 @@
+       {
+          print BDKLOGFILE "Re-running...\n";
+       }
+-      $return_value = system("make_nr_at_100_with_dict.py trimmed-uniq $aln >& make_nr_at_100_with_dict.out");
++      $return_value = system("make_nr_at_100_with_dict.py trimmed-uniq $aln &> make_nr_at_100_with_dict.out");
+       $ii++;
+    }
+    if ($return_value != 0)
+@@ -2183,12 +2286,19 @@
+       {
+          print BDKLOGFILE "Re-running...\n";
+       }
+-      $return_value = system("SCI-PHY trimmed-uniq  -i trimmed-uniq.a2m > SCI-PHY.out 2>&1");
++
++      my $times=0;
++      while( ($times<5)&&(! -e "trimmed-uniq.a2m") ) {
++          sleep(1);
++          $times++;
++      }
++      
++      $return_value = system("SCI-PHY trimmed-uniq  -i trimmed-uniq.a2m -nthreads $num_threads > SCI-PHY.trimmed-uniq.out 2>&1");
+       $ii++;
+    }
+    if ($return_value != 0)
+    {
+-      print "ERROR: SCI-PHY exited with non-zero value $return_value\n";
++      print "ERROR: SCI-PHY (trimmed-uniq) exited with non-zero value $return_value\n";
+       exit 1;
+    }
+ 
+@@ -2353,8 +2463,10 @@
+        } 
+        $idhash{$hitid} = 1;
+      }
+-     elsif ((testCoverage($fa[$i],$hmm_lengths{$hitid})) 
+-             && ($id_evalue{ $hitid } <= $cutoff_evalue))
++     elsif ( (exists $hmm_lengths{$hitid}                ) &&
++             (testCoverage($fa[$i],$hmm_lengths{$hitid}) ) && 
++             ($id_evalue{ $hitid } <= $cutoff_evalue     )   
++           )
+      {
+        if ( $debug1 )
+        {
+Binary files ./.flowerpower.pl.swp and ./.flowerpower.pl.swp differ
+diff -ruN ./fp_top_by_pwid_with_seed.py ./fp_top_by_pwid_with_seed.py
+--- ./fp_top_by_pwid_with_seed.py	2013-07-25 18:08:16.000000000 -0300
++++ ./fp_top_by_pwid_with_seed.py	2021-02-10 15:55:57.311318103 -0300
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python
+ 
+ # # This version of top_by_pwid is called by flowerpower.pl
+ # # to trim excess homologs when appropriate.
+diff -ruN ./greedily_set_cover_genes_with_flock_clusters.py ./greedily_set_cover_genes_with_flock_clusters.py
+--- ./greedily_set_cover_genes_with_flock_clusters.py	2013-07-25 18:08:16.000000000 -0300
++++ ./greedily_set_cover_genes_with_flock_clusters.py	2021-02-10 15:55:57.311318103 -0300
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python
+ 
+ import os, sys, cPickle
+ from Bio import SeqIO
+diff -ruN ./make_dicts_of_flock_output.py ./make_dicts_of_flock_output.py
+--- ./make_dicts_of_flock_output.py	2013-07-25 18:08:16.000000000 -0300
++++ ./make_dicts_of_flock_output.py	2021-02-10 15:55:57.311318103 -0300
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python
+ 
+ import cPickle
+ import os, glob
+diff -ruN ./prepare_db_for_flock.py ./prepare_db_for_flock.py
+--- ./prepare_db_for_flock.py	2013-02-12 15:44:06.000000000 -0200
++++ ./prepare_db_for_flock.py	2021-02-10 15:55:57.311318103 -0300
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python
+ 
+ import os, sys, re, pg, pgdb, tempfile
+ from optparse import OptionParser
