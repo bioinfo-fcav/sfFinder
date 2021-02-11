@@ -1,6 +1,6 @@
 # sfFinder
 
-*s*ub-*f*amily *Finder*: Finds similar family protein sequences in UniRef database, and, also generates HMM profiles and Fasta sequences from identified subfamilies. The profiles can be used to prospect new proteins from that family in metagenomic datasets using the HMMs through SAM package or the Fasta sequences through similarity searches through DIAMOND aligner.
+***s**ub-**f**amily **Finder***: Finds similar family protein sequences in UniRef database, and, also generates HMM profiles and Fasta sequences from identified subfamilies. The profiles can be used to prospect new proteins from that family in metagenomic datasets using the HMMs through SAM package or the Fasta sequences through similarity searches through DIAMOND aligner.
 
 ## Dependencies
 
