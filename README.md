@@ -76,11 +76,11 @@ esearch -db protein -query ABM79805.1 | efetch -db protein -format fasta >> ./AL
 ls /path_to/outdir/ALKB.fa
 ```
 
-# mkFamiliesProfiles.sh
+# mkFProfiles.sh
 
 If you prefer, for multiple family entries, you can use the following pipeline to execute automatically the 
 getProteinByID.pl and, also, generates the profiles using sfFinder.sh:
 
 ```bash=
-mkFamiliesProfiles.sh /path_to/familyentries.txt
+mkFProfiles.sh /path_to/familyentries.txt
 ```
