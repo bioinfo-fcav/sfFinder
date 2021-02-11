@@ -1,6 +1,6 @@
 # sfFinder
 
-sub-family Finder program
+*s*ub-*f*amily *Finder*: Finds similar family protein sequences in UniRef database, and, also generates HMM profiles and Fasta sequences from identified subfamilies. The profiles can be used to prospect new proteins from that family in metagenomic datasets using the HMMs through SAM package or the Fasta sequences through similarity searches through DIAMOND aligner.
 
 ## Dependencies
 
@@ -13,7 +13,7 @@ sub-family Finder program
 - BPG_utilities (http://phylogenomics.berkeley.edu/software);
 - SCI-PHY version 1 (http://phylogenomics.berkeley.edu/software);
 - T-Coffee (http://tcoffee.crg.cat/);
-- SAM:  Sequence Alignment and Modeling Software System (http://www.soe.ucsc.edu/research/compbio/sam.html)
+- SAM: Sequence Alignment and Modeling Software System (http://www.soe.ucsc.edu/research/compbio/sam.html)
 - Python2 (https://www.python.org/download/releases/2.7/);
 - Python2 package biopython==1.54 [ATTENTION: Doesn't work with Python >= 1.55] (https://pypi.org/project/biopython/1.54/);
 - Python2 package pygres (https://pypi.org/project/pygres/);
