@@ -1,9 +1,0 @@
-Reading parameter file ../last.N1141.mod
-../last.N1141.mod(22):  Reading MODEL --  Model from alignment file last.a2m
-SAM: align2model v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
-Database Files:  assigned_to_last.N1141.mod.fa
-Found 1 sequence in 1 file; selected 1 sequence
-% Subsequence-submodel (local) (SW = 2)
-% Simple scores adjusted by +1.5*ln(seq len) (adjust_score = 2)
-% Track 0 FIMs added (geometric mean of match probabilities (6))
-% Single Track Model:  ../last.N1141.mod
