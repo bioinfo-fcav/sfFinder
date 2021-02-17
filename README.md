@@ -13,7 +13,12 @@
 - BPG_utilities (http://phylogenomics.berkeley.edu/software);
 - SCI-PHY version 1 (http://phylogenomics.berkeley.edu/software);
 - T-Coffee (http://tcoffee.crg.cat/);
-- SAM: Sequence Alignment and Modeling Software System (http://www.soe.ucsc.edu/research/compbio/sam.html)
+- SAM: Sequence Alignment and Modeling Software System (http://www.soe.ucsc.edu/research/compbio/sam.html);
+- curl (https://curl.se/);
+- KronaTools-2.7  (https://github.com/marbl/Krona);
+-- Don't forget to update the NCBI taxonomy files: updateTaxonomy.sh
+--- But, add the --preserve argument in the script ./updateTaxonomy.sh;
+--- So, check if taxonomy/merged.dmp is in there (ls taxonomy/merged.dmp);
 - Python2 (https://www.python.org/download/releases/2.7/);
 - Python2 package biopython==1.54 [ATTENTION: Doesn't work with Python >= 1.55] (https://pypi.org/project/biopython/1.54/);
 - Python2 package pygres (https://pypi.org/project/pygres/);
@@ -82,5 +87,29 @@ If you prefer, for multiple family entries, you can use the following pipeline t
 getProteinByID.pl and, also, generates the profiles using sfFinder.sh:
 
 ```bash=
-mkFProfiles.sh /path_to/familyentries.txt
+mkFProfiles.sh /path_to/familyentries.txt /path_to/output_profile_database
 ```
+
+# sfMapper.sh
+
+This tool maps the protein family and subfamily information for a dataset of unknown proteins.
+You can use protein alignment search using "diamond":
+
+```bash=
+sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_database /path_to/output_mapping
+```
+... or Hidden Markov Model (HMM) profiles search using SAM "hmmscore":
+
+```bash=
+sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_database /path_to/output_mapping
+```
+
+## Example
+
+In the sfFinder "bin/" directory you can see the script run_example.sh. You can run it to see if the
+pipeline is running. So, you can compare with the provided output.
+
+```bash=
+./run_example.sh
+```
+
