@@ -50,6 +50,11 @@ if [ ! ${SFFINDER_HOME} ]; then
 	exit
 fi
 
+if [ ! -e "${SFFINDER_HOME/bin/sfFinder.sh}" ]; then
+	echo "[ERROR] Wrong SFFINDER_HOME (${SFFINDER_HOME}). Please edit the path on $0 file" 1>&2
+	exit
+fi
+
 if [ ! -e "${UNIREF_FASTA}" ]; then
 	echo "[ERROR] Wrong UniRef FASTA file (${UNIREF_FASTA})" 1>&2
 	exit
@@ -285,3 +290,7 @@ for mlibfile in ${outdir}/hmms/parameters/${inprotfamname}.*.mlib; do
 		sed "s/^insert\(\s\+\).\+/insert\1\.\/hmms\/${modfile}/" \
 		> ${mlibfile}
 done
+
+rm -f ????.tmp
+
+
