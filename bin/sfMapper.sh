@@ -192,6 +192,7 @@ absmfile=`readlink -f ${outdir}/${mapmode}.result.1.txt`
 number_of_unique_families=`grep -v '^#' ${mfile} | cut -f 2 | sort -u | wc -l`
 number_of_unique_subfamilies=`grep -v '^#' ${mfile} | cut -f 3 | sort -u | wc -l`
 
+echo -e "# Mapping Summary"
 echo -e "Input file.......................: ${absqfile}"
 echo -e "Mapping mode.....................: ${mapmode}"
 echo -e "Mapping file.....................: ${absmfile}"
