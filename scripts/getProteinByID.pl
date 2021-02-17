@@ -106,6 +106,7 @@ $LOGGER->logdie("Wrong input file ($infile)") unless (-e $infile);
 
 $LOGGER->logdie("Missing output basename") unless ($outbasename);
 $LOGGER->logdie("Wrong output directory (".dirname($outbasename).")") unless (-d dirname($outbasename));
+
 if (-d $outbasename) {
     if ($outbasename!~/\/$/) {
         $outbasename.='/';

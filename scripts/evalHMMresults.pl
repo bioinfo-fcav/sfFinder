@@ -69,8 +69,12 @@ use Readonly;
 use Getopt::Long;
 
 use File::Basename;
+use FileHandle;
 
 use vars qw/$LOGGER/;
+
+use constant DEFAULT_SCORE_THRESHOLD=>-100;
+use constant DEFAULT_PREFIX=>'output';
 
 INIT {
     use Log::Log4perl qw/:easy/;
@@ -78,13 +82,15 @@ INIT {
     $LOGGER = Log::Log4perl->get_logger($0);
 }
 
-my ($level, $indir, $score_threshold);
+my ($level, $indir, $score_threshold, $prefix, $outfile);
 
 Usage("Too few arguments") if $#ARGV < 0;
 GetOptions( "h|?|help" => sub { &Usage(); },
             "l|level=s"=> \$level,
             "i|indir=s"=> \$indir,
-            "t|score_threshold=f"=>\$score_threshold
+            "t|score_threshold=f"=>\$score_threshold,
+            "p|prefix=s"=>\$prefix,
+            "o|outfile=s"=>\$outfile
     ) or &Usage();
 
 
@@ -106,14 +112,27 @@ if ($level) {
 $LOGGER->logdie("Missing input directory") unless ($indir);
 $LOGGER->logdie("Wrong input directory ($indir)") unless (-d $indir);
 
-$score_threshold||=-100;
+$score_threshold||=DEFAULT_SCORE_THRESHOLD;
+
+$prefix||=DEFAULT_PREFIX;
+
+my $fhout;
+
+if ($outfile) {
+    $fhout = FileHandle->new;
+    $fhout->open(">$outfile");
+} else {
+    $fhout = \*STDOUT;
+}
+
+
 
 my %result;
 
 foreach my $distfile (glob("$indir/*.dist")) {
     my $fn = basename($distfile);
     my ($family, $subfamily);
-    if ($fn=~/result-hmms-meta\.\d+\.([^\.]+)\.last\.(N\d+)/) {
+    if ($fn=~/$prefix\.\d+\.([^\.]+)(?:\.last)?\.(N\d+)/) {
         $family = $1;
         $subfamily = $2;
 #        print STDERR ">$family<>$subfamily<\n";
@@ -132,29 +151,36 @@ foreach my $distfile (glob("$indir/*.dist")) {
             $result{$sequence_id} = {   'score'=>$reverse_score, 
                                         'evalue'=>$evalue,
                                         'family'=>$family,
-                                        'subfamily'=>$family.'.'.$subfamily
+                                        'subfamily'=>$subfamily
                                     };
         } else {
             if ($result{$sequence_id}->{'score'} > $reverse_score) {
                 $result{$sequence_id} = {   'score'=>$reverse_score, 
                                             'evalue'=>$evalue,
                                             'family'=>$family,
-                                            'subfamily'=>$family.'.'.$subfamily
+                                            'subfamily'=>$subfamily
                                         };
             }
-        }            
+        } 
     }
     close(IN);
 }
 
+print { $fhout } join("\t", '#QueryId', 'Family', 'Subfamily'),"\n";
 foreach my $sequence_id (sort { $result{$a}->{'subfamily'} cmp $result{$b}->{'subfamily'} } keys %result) {
-    print join("\t", $sequence_id, @{$result{$sequence_id}}{'family','subfamily'}),"\n";
+    print { $fhout } join("\t", $sequence_id, @{$result{$sequence_id}}{'family','subfamily'}),"\n";
 }
+
+$fhout->close();
 
 # Subroutines
 
 sub Usage {
     my ($msg) = @_;
+    
+    my $default_score_threshold=DEFAULT_SCORE_THRESHOLD;
+    my $default_prefix=DEFAULT_PREFIX;
+
 	Readonly my $USAGE => <<"END_USAGE";
 Daniel Guariz Pinheiro (dgpinheiro\@gmail.com)
 (c)2019 Universidade Estadual Paulista "Júlio de Mesquita Filho"
@@ -167,8 +193,10 @@ Argument(s)
 
         -h      --help              Help
         -l      --level             Log level [Default: FATAL]
-        -i      --indir             Input directory
-        -t      --score_threshold   Score threshold [Default -100]
+        -i      --indir             Input directory of *.dist files
+        -t      --score_threshold   Score threshold [Default $default_score_threshold]
+        -p      --prefix            Prefix files [Default: $default_prefix]
+        -o      --outfile           Output file [Default: STDOUT]
 
 END_USAGE
     print STDERR "\nERR: $msg\n\n" if $msg;

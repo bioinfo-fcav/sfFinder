@@ -130,32 +130,48 @@ foreach my $famdir (glob("$dbdir/subfamily/*")) {
             chomp;
             next if ($_=~/^#/);
             my ($id, $desc, $subfam, $taxon, $tax_id) = split(/\t/, $_);
+            $LOGGER->logdie("Not found information for $id in $famname.treeinfo.txt") unless ($subfam);
 
-            if (exists $db{$id}) {
-                $LOGGER->warn("Found ID $id for $famname, but $id was previously found for $db{$id}->{'fam'}.");
-            } else {
-                $db{$id} = {'desc'=>$desc,
-                            'fam'=>$famname,
-                            'subfam'=>$subfam,
-                            'taxon'=>$taxon,
-                            'tax_id'=>$tax_id};
-            }                        
+            $db{$famname}->{$subfam}->{$tax_id} = undef;
         }
         close(DB);
     }
 }
+
+my %lca;
+
+foreach my $fam (keys %db) {
+    foreach my $subfam (keys %{ $db{$fam} }) {
+        my @tax_id = keys %{ $db{$fam}->{$subfam} };
+        my $getlca_cmd='echo "'.join(' ', @tax_id).'" | GetLCA.pl';
+        my $lcatax_id=`$getlca_cmd`;
+        chomp($lcatax_id);
+        $LOGGER->logdie("Cannot get an LCA from $fam.$subfam information on $fam.treeinfo.txt") unless ($lcatax_id);
+        $LOGGER->logdie("LCA taxonomy information was already got for $fam.$subfam") if (exists $lca{ $fam }->{ $subfam });
+
+        my $gettaxinfo=`GetTaxInfo.pl $lcatax_id | tail -1`;
+        chomp($gettaxinfo);
+
+        my ($lcarank, $lcaname) = (split(/\t/, $gettaxinfo))[3,4];
+
+        $LOGGER->logdie("Cannot get the TaxInfo for $lcatax_id, identified as LCA from $fam.$subfam") unless ($lcaname);
+
+        $lca{ $fam }->{ $subfam } = {   'tax_id'=> $lcatax_id,
+                                        'tax_rank'=> $lcarank,
+                                        'tax_name'=> $lcaname   };
+    }
+}
+
 
 open(IN, "<", $infile) or $LOGGER->logdie($!);
 
 while(<IN>) {
     chomp;
     if ($_=~/^#/) {
-        print { $fhout } join("\t",$_, 'Taxon', 'Tax_id'),"\n";
+        print { $fhout } join("\t",$_, 'Tax_rank', 'Tax_name', 'Tax_id'),"\n";
     } else {
-        my ($qid, $sid, $fname, $sfname) = split(/\t/, $_);
-        $LOGGER->logdie("$sid family on input file ($fname) differs from that on db directory ($db{$sid}->{'fam'}).") if ($fname ne $db{$sid}->{'fam'});
-        $LOGGER->logdie("$sid subfamily on input file ($sfname) differs from that on db directory ($db{$sid}->{'fam'}).") if ($sfname ne $db{$sid}->{'subfam'});
-        print { $fhout } join("\t",$qid, $sid, $fname, $sfname, @{$db{$sid}}{'taxon','tax_id'}),"\n";
+        my ($qid, $fname, $sfname) = split(/\t/, $_);
+        print { $fhout } join("\t",$qid, $fname, $sfname, @{$lca{$fname}->{$sfname}}{'tax_rank', 'tax_name','tax_id'}),"\n";
     }
 }    
 
