@@ -113,3 +113,14 @@ pipeline is running. So, you can compare with the provided output.
 ./run_example.sh
 ```
 
+For making a comparison you need first to uncompress the two directories ("output/" and "mapping/") to another 
+directory ("/tmp", for example):
+
+```bash=
+tar -xzvf ../example/output.tar.gz -C /tmp/
+```
+
+```bash=
+tar -xzvf ../example/mapping.tar.gz -C /tmp/
+```
+
