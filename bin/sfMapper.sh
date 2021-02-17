@@ -68,6 +68,15 @@ else
 	fi
 fi
 
+number_of_inputted_proteins=`grep -c '^>' ${qfile}`
+if [ ! ${number_of_inputted_proteins} ]; then
+	number_of_inputted_proteins=0
+fi
+if [ ${number_of_inputted_proteins} == 0 ]; then
+	echo "[ERROR] Not found any protein in query file (${qfile}) or not in FASTA format" 1>&2
+	exit
+fi
+
 dbdir=$3
 
 if [ ! ${dbdir} ]; then
@@ -167,4 +176,28 @@ ${SFFINDER_HOME}/scripts/addTreeInfo.pl -i ${outdir}/${mapmode}.result.0.txt \
 					1> ${outdir}/${mapmode}.result.log.out.txt \
 					2> ${outdir}/${mapmode}.result.log.err.txt \
 
+number_of_mapped_proteins=`grep -v '^#' ${outdir}/${mapmode}.result.1.txt | cut -f 1 | sort -u | wc -l`
+
+if [ ! ${number_of_mapped_proteins} ]; then
+	number_of_mapped_proteins=0
+	echo "[WARN] Zero mapped proteins" 1>&2
+fi
+
+percentage_of_mapped_proteins=`echo "(${number_of_mapped_proteins}/${number_of_inputted_proteins})*100" | bc -l | LC_NUMERIC="en_US.UTF-8" xargs printf "%.2f\n"`
+
+absqfile=`readlink -f ${qfile}`
+mfile=${outdir}/${mapmode}.result.1.txt
+absmfile=`readlink -f ${outdir}/${mapmode}.result.1.txt`
+
+number_of_unique_families=`grep -v '^#' ${mfile} | cut -f 2 | sort -u | wc -l`
+number_of_unique_subfamilies=`grep -v '^#' ${mfile} | cut -f 3 | sort -u | wc -l`
+
+echo -e "Input file.......................: ${absqfile}"
+echo -e "Mapping mode.....................: ${mapmode}"
+echo -e "Mapping file.....................: ${absmfile}"
+echo -e "Number of inputted proteins......: ${number_of_inputted_proteins}"
+echo -e "Number of mapped proteins........: ${number_of_mapped_proteins}"
+echo -e "Percentage of mapped proteins....: ${percentage_of_mapped_proteins}%"
+echo -e "Number of identified families....: ${number_of_unique_families}"
+echo -e "Number of identified subfamilies.: ${number_of_unique_subfamilies}"
 
