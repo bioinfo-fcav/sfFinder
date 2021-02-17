@@ -1,0 +1,2 @@
+>TEST1_gi|11878088|gb|AAG40794.1| Tbc2A monooxygenase [Burkholderia cepacia]
+>TEST2_gi|86565791|gb|ABD09600.1| toluene 4-monooxygenase protein A [Frankia casuarinae]

@@ -1,0 +1,18 @@
+diamond v2.0.6.144 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database input file: ../example/output/fa/output.fa
+Opening the database file...  [0s]
+Loading sequences...  [0.002s]
+Masking sequences...  [0.007s]
+Writing sequences...  [0s]
+Hashing sequences...  [0s]
+Loading sequences...  [0s]
+Writing trailer...  [0s]
+Closing the input file...  [0s]
+Closing the database file...  [0s]
+Database hash = 85a8840580fba93815cbff5164e18ab3
+Processed 1148 sequences, 590452 letters.
+Total time = 0.01s

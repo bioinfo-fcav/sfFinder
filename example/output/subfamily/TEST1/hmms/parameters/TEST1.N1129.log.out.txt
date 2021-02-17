@@ -1,0 +1,3 @@
+% Prior File:  Internal (Name: rsdb-comp2.32comp) 
+%   32 priors on 20 characters.
+Model TEST1.N1129.mod calibrated to tau=0.9187 and lambda=0.3225

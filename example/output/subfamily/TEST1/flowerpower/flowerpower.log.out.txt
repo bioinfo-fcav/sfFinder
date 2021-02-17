@@ -1,0 +1,47 @@
+/data/GitHub/sfFinder/example/output/subfamily/TEST1/tcoffee/TEST1.alnUsing FlowerPower 2.3 to retrieve homologs from /data/databases/uniref/uniref100_sample.
+
+  Starting PSI-BLAST (3 iterations) to retrieve candidate set... done.
+Making unique
+
+  Iteration 0: Selecting the first set of sequences...
+  Subsequent iterations will use SCI-PHY subfamily identification
+  and subfamily HMM scoring to retrieve additional sequences.
+
+  Iteration 1: 262 additional sequences retrieved.
+  Iteration 2: 
+
+Building a new DB, current time: 02/11/2021 16:19:49
+New DB name:   /data/GitHub/sfFinder/example/output/subfamily/TEST1/flowerpower/fp-workspace/iter2/universe.fa
+New DB title:  universe.fa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 313 sequences in 0.00557184 seconds.
+
+
+299 additional sequences retrieved.
+  Iteration 3: 
+
+Building a new DB, current time: 02/11/2021 16:20:37
+New DB name:   /data/GitHub/sfFinder/example/output/subfamily/TEST1/flowerpower/fp-workspace/iter3/universe.fa
+New DB title:  universe.fa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 14 sequences in 0.000566006 seconds.
+
+
+14 additional sequences retrieved.
+
+
+Building a new DB, current time: 02/11/2021 16:21:36
+New DB name:   /data/GitHub/sfFinder/example/output/subfamily/TEST1/flowerpower/fp-workspace/final/universe.fa
+New DB title:  universe.fa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 577 sequences in 0.0104311 seconds.
+
+
+
+FlowerPower retrieved 0 sequences.

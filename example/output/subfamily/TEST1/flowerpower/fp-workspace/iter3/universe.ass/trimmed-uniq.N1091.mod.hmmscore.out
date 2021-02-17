@@ -1,0 +1,11 @@
+Reading parameter file ../trimmed-uniq.N1091.mod
+../trimmed-uniq.N1091.mod(22):  Reading MODEL --  Model from alignment file trimmed-uniq.a2m
+SAM: hmmscore v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
+Scoring model trimmed-uniq.N1091.mod
+WARNING: reverse null model and E-value calculations are
+being made without model calibration.  Use -calibrate first
+for better results.
+Calculating Distances (. = 1000 sequences)
+.
+Average NLL-Simple NULL score:        -647.837219
+Database has 14 sequences with 7232 residues.

@@ -1,0 +1,11 @@
+Reading parameter file ../last.N1161.mod
+../last.N1161.mod(22):  Reading MODEL --  Model from alignment file last.a2m
+SAM: hmmscore v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
+Scoring model last.N1161.mod
+WARNING: reverse null model and E-value calculations are
+being made without model calibration.  Use -calibrate first
+for better results.
+Calculating Distances (. = 1000 sequences)
+.
+Average NLL-Simple NULL score:        -660.631775
+Database has 576 sequences with 296279 residues.

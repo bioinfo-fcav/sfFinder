@@ -1,0 +1,8 @@
+Weights from alignment method 1 (karplus), b=0.500000, e=0.500000
+% Method: karplus (1)  Bits to save: 0.500000 Exponent 0.500000
+% 1 sequence with 531 columns
+% total weight limited to 1.000000
+% total_weight: 0.851493 
+1	1
+% ID	Weight
+UniRef100_Q2JGJ2	0.851493

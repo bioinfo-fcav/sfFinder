@@ -1,0 +1,1 @@
+readline() on closed filehandle FILE at /usr/local/bioinfo/flowerpower/flowerpower.pl line 862.

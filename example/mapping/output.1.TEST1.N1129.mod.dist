@@ -1,0 +1,82 @@
+%  SAM: hmmscore v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
+%  (c) 1992-2001 Regents of the University of California, Santa Cruz
+%
+%          Sequence Alignment and Modeling Software System
+%         http://www.cse.ucsc.edu/research/compbio/sam.html
+%
+% ----------------- Citations (SAM, SAM-T2K, HMMs) --------------------
+% R. Hughey, A. Krogh, Hidden Markov models for sequence analysis:
+%  Extension and analysis of the basic method, CABIOS 12:95-107, 1996.
+% K. Karplus, et al., What is the value added by human intervention in protein
+%  structure prediction, Proteins: Stucture, Function, Genetics 45(S5):86--91, 2001.
+% A. Krogh et al., Hidden Markov models in computational biology:
+%  Applications to protein modeling, JMB 235:1501-1531, Feb 1994.
+% ---------------------------------------------------------------------
+%  /data/GitHub/sfFinder/example/mapping/output.1.TEST1.N1129.mod   Host: gauntlet    Wed Feb 17 17:04:18 2021
+%  dgpinheiro                                                       Dir:  /data/GitHub/sfFinder/example/output/subfamily/TEST1
+% ---------------------------------------------------------------------
+% Inserted Files:  ./hmms/TEST1.N1129.mod
+% Database Files:  /data/GitHub/sfFinder/example/TEST.fa
+%
+% Sequence-model (global) (SW = 0)
+% Single Track Model:  TEST1.N1129.mod
+% Score DP Method: forward all-paths (dpstyle = 0)
+% Align DP Method: viterbi (adpstyle = 1)
+% 44 sequences, 21955 residues, 501 nodes, 0.35 seconds
+%
+% Sequence scores selected:  All  (select_score=8)
+%
+% Simple: NLL-NULL using FIM probabilities
+% Reverse: NLL-NULL for the reverse sequence NULL model
+%    Calculated when Simple < simple_threshold (10000.00)
+% E-value on N (=44) sequences:
+%    N / (1 + exp(-(lambda(=0.3225) * Reverse)^tau(=0.9187)))
+%    Calculated when Simple < simple_threshold (10000.00)
+%    Rescale E-values or use -dbsize for multiple scoring runs.
+% Scores sorted by E-value, best first
+%
+% Sequence ID           Length      Simple     Reverse     E-value      X count
+UniRef100_A0A3T0WA74      504      -832.65     -903.18     8.08e-79
+UniRef100_O84961          504      -829.45     -901.66     1.07e-78
+UniRef100_A0A132HMK5      515      -736.58     -807.56     4.98e-71
+UniRef100_Q5KT19          530      -735.05     -806.45     6.14e-71
+UniRef100_Q470W6          530      -734.43     -806.03     6.64e-71
+UniRef100_A2SI49          527      -708.89     -778.25     1.26e-68
+UniRef100_Q2QK82          499      -696.87     -769.17     7.00e-68
+UniRef100_Q390N7          516      -687.68     -767.71     9.24e-68
+UniRef100_Q46PA6          514      -686.16     -761.56     2.96e-67
+UniRef100_A0A1D7ZDH2      519      -681.64     -760.38     3.70e-67
+UniRef100_Q9ANX2          519      -684.41     -759.79     4.13e-67
+UniRef100_Q8VSV8          519      -683.31     -758.86     4.93e-67
+UniRef100_Q9S147          540      -683.40     -757.30     6.62e-67
+UniRef100_Q9ZNP4          536      -684.99     -757.30     6.63e-67
+UniRef100_Q8VUT9          515      -677.33     -755.55     9.24e-67
+UniRef100_Q7WTJ4          508      -684.22     -752.12     1.77e-66
+UniRef100_Q8KRY8          508      -680.63     -751.77     1.89e-66
+UniRef100_Q68J59          517      -680.10     -749.64     2.83e-66
+UniRef100_P19732          517      -678.60     -749.46     2.93e-66
+UniRef100_Q9EZP3          514      -676.75     -749.04     3.17e-66
+UniRef100_Q43981          511      -681.99     -748.66     3.41e-66
+UniRef100_Q3HW54          519      -670.38     -745.99     5.66e-66
+UniRef100_Q52164          516      -676.40     -744.53     7.46e-66
+UniRef100_Q52173          516      -677.74     -743.70     8.73e-66
+UniRef100_Q52572          513      -663.61     -739.52     1.93e-65
+UniRef100_Q479F8          517      -655.77     -730.95     9.83e-65
+UniRef100_A2SL20          537      -651.78     -727.89     1.76e-64
+UniRef100_C1DMU4          511      -650.66     -724.46     3.37e-64
+UniRef100_Q842G3          506      -608.16     -675.29     3.98e-60
+UniRef100_Q7WYF1          506      -604.68     -671.25     8.62e-60
+UniRef100_C1DN71          505      -601.63     -665.82     2.44e-59
+UniRef100_A5ECB8          494      -308.48     -387.44     1.00e-35
+UniRef100_P95408          500      -289.13     -376.30     9.35e-35
+UniRef100_O87798          498      -288.95     -375.13     1.18e-34
+UniRef100_Q2JGJ2          531      -292.59     -371.33     2.53e-34
+UniRef100_O87082          497      -276.50     -364.26     1.05e-33
+UniRef100_Q00456          500      -275.87     -359.11     2.95e-33
+UniRef100_Q46PB0          501      -274.99     -358.85     3.11e-33
+UniRef100_Q9EZP0          501      -273.79     -353.57     9.01e-33
+UniRef100_Q51939          501      -273.46     -352.71     1.07e-32
+UniRef100_A0A0D8HMT3      507      -266.83     -351.13     1.47e-32
+UniRef100_O07068          501      -245.32     -332.02     7.01e-31
+UniRef100_O87802          330       104.57       -2.03     1.48e+01
+UniRef100_O87799           86       267.98        2.95     3.18e+01

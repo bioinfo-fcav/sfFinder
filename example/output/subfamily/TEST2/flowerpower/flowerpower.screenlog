@@ -1,0 +1,30 @@
+Seed ID: UniRef100_Q2JGJ2
+Length of seed : 531
+Clustering protocol used: global-global (all sequences must be
+roughly the same length and align along their entire lengths)
+Sequence database searched = /data/databases/uniref/uniref100_sample
+571 sequences retrieved
+571 sequences from PSI-BLAST run passed initial criteria
+Seed is present in PSI-BLAST set
+
+***STARTING Iteration 0 ***
+
+
+*** STARTING iter1 *****
+Running SCI-PHY on MSA from previous iteration to identify subfamilies
+Constructing subfamily HMMs
+Scoring the PSI-BLAST selected set with subfamily HMMs
+Aligning these sequences to their closest subfamily HMM
+219 sequences passed user-specified criteria.
+
+
+*** STARTING iter2 ****
+Running SCI-PHY on MSA from previous iteration to identify subfamilies
+Constructing subfamily HMMs
+Scoring the PSI-BLAST selected set with subfamily HMMs
+Aligning these sequences to their closest subfamily HMM
+352 additional sequences passed user-specified criteria.
+
+
+*** STARTING iter3 ****
+Exhausted all sequences in PSIBLAST set. No more sequences to search; Stopping here. Bye!

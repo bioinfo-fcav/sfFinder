@@ -1,0 +1,9 @@
+SAM: hmmscore v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
+/data/GitHub/sfFinder/example/output/subfamily/TEST1/hmms/parameters//TEST1.N923.mlib(22):  Reading model 1 (TEST1.N923.mod)
+Reading parameter file ./hmms/TEST1.N923.mod
+./hmms/TEST1.N923.mod(22):  Reading MODEL --  Model from alignment file last.a2m
+Scoring model TEST1.N923.mod (./hmms/TEST1.N923.mod model number 1)
+Calculating Distances (. = 1000 sequences)
+.
+Average NLL-Simple NULL score:        -529.291199
+Database has 44 sequences with 21955 residues.

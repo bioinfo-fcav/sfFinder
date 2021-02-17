@@ -1,0 +1,18 @@
+SAM: modelfromalign v3.5 (July 15, 2005) compiled 12/05/20_11:48:22
+Reading alignment file trimmed-uniq.a2m (1 sequence, 531 columns) as A2M alignment.
+SCI-PHY version 1.2, run Thu Feb 11 19:02:09 2021
+modelfromalign trimmed-uniq -alignfile trimmed-uniq.a2m
+load node UniRef100_Q2JGJ2
+initializing 1 nodes: .......1      done    
+allocating pairs array of size 0
+computing 0 pairs: ..........done    
+adding 0 pairs to queue
+computing null hypothesis: 1556.25
+finished initialization
+beginning agglomeration ...
+, 0.00--1556.25initial encoding cost savings is 0
+created N1 above UniRef100_Q2JGJ2
+wrote shmm trimmed-uniq.N1.mod
+cached lgamma: computed 1067 of 1109, 0 too large
+Unconstrained ecost: 323  Constrained ecost: 208
+Max memory use = 90508726 MB

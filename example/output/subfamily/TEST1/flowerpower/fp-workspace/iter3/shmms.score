@@ -1,0 +1,33 @@
+#Scoring 14 sequences against 12 HMMs
+#Sequence                                                                                            Best HMM                   MLength      Simple      Reverse S_Amortized R_Amortized E-value     
+UniRef100_A0A3S0G2Z8                                                                                 trimmed-uniq.N1086.mod         502      -786.86     -775.01     -1.57       -1.54   0.000000e+00
+UniRef100_UPI0005AA58F7                                                                              trimmed-uniq.N1086.mod         502      -901.86     -889.05     -1.80       -1.77   0.000000e+00
+UniRef100_UPI000735CA41                                                                              trimmed-uniq.N1086.mod         502      -907.24     -896.16     -1.81       -1.79   0.000000e+00
+UniRef100_UPI000E0A62D6                                                                              trimmed-uniq.N1086.mod         502      -903.37     -890.09     -1.80       -1.77   0.000000e+00
+UniRef100_Q8VUT9                                                                                     trimmed-uniq.N1086.mod         502      -904.01     -890.82     -1.80       -1.77   0.000000e+00
+UniRef100_W8WUF8                                                                                     trimmed-uniq.N1086.mod         502      -822.80     -812.15     -1.64       -1.62   0.000000e+00
+UniRef100_A0A292ZLI1                                                                                 trimmed-uniq.N1086.mod         502      -709.93     -697.66     -1.41       -1.39   1.030000e-298
+UniRef100_A0A0C5XHK7                                                                                 trimmed-uniq.N1086.mod         502      -709.42     -696.97     -1.41       -1.39   2.040000e-298
+UniRef100_A0A2K0YCK1                                                                                 trimmed-uniq.N1086.mod         502      -708.21     -696.01     -1.41       -1.39   5.340000e-298
+UniRef100_D4Z0A3                                                                                     trimmed-uniq.N1086.mod         502      -708.42     -695.90     -1.41       -1.39   5.970000e-298
+UniRef100_UPI00065C7B9D                                                                              trimmed-uniq.N1086.mod         502      -707.92     -695.71     -1.41       -1.39   7.160000e-298
+UniRef100_A0A0A1Y3R4                                                                                 trimmed-uniq.N1086.mod         502      -707.09     -694.63     -1.41       -1.38   2.120000e-297
+UniRef100_A0A081T559                                                                                 trimmed-uniq.N1086.mod         502      -706.40     -693.94     -1.41       -1.38   4.230000e-297
+UniRef100_UPI000818B6AD                                                                              trimmed-uniq.N1086.mod         502      -705.94     -693.66     -1.41       -1.38   5.600000e-297
+
+
+#Aligning sequence UniRef100_A0A3S0G2Z8 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_UPI0005AA58F7 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_UPI000735CA41 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_UPI000E0A62D6 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_Q8VUT9 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_W8WUF8 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_A0A292ZLI1 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_A0A0C5XHK7 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_A0A2K0YCK1 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_D4Z0A3 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_UPI00065C7B9D to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_A0A0A1Y3R4 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_A0A081T559 to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+#Aligning sequence UniRef100_UPI000818B6AD to model trimmed-uniq.N1086.mod, storing in file trimmed-uniq.N1086.mod_assigned.a2m
+align2model: align2model trimmed-uniq.N1086.mod_assigned -i ../trimmed-uniq.N1086.mod -db assigned_to_trimmed-uniq.N1086.mod.fa -sw 2 -a2mdots 0 > trimmed-uniq.N1086.mod_assigned.align2model.out 2>&1

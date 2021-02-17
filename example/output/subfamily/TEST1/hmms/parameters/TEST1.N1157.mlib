@@ -1,0 +1,36 @@
+%  SAM: hmmscore v3.5 (July 15, 2005) compiled 12/05/20_11:48:21
+%  (c) 1992-2001 Regents of the University of California, Santa Cruz
+%
+%          Sequence Alignment and Modeling Software System
+%         http://www.cse.ucsc.edu/research/compbio/sam.html
+%
+% ----------------- Citations (SAM, SAM-T2K, HMMs) --------------------
+% R. Hughey, A. Krogh, Hidden Markov models for sequence analysis:
+%  Extension and analysis of the basic method, CABIOS 12:95-107, 1996.
+% K. Karplus, et al., What is the value added by human intervention in protein
+%  structure prediction, Proteins: Stucture, Function, Genetics 45(S5):86--91, 2001.
+% A. Krogh et al., Hidden Markov models in computational biology:
+%  Applications to protein modeling, JMB 235:1501-1531, Feb 1994.
+% ---------------------------------------------------------------------
+%  ../example/output//subfamily/TEST1/hmms/parameters/TEST1.N1157   Host: gauntlet    Thu Feb 11 17:50:05 2021
+%  dgpinheiro                                                        Dir:  /data/GitHub/sfFinder/bin
+% ---------------------------------------------------------------------
+% Inserted Files:  ./hmms/TEST1.N1157.mod
+% Database Files: 
+%
+
+MODLIBMOD TEST1.N1157.mod ./hmms/TEST1.N1157.mod model number 1
+% Calibration data for 100000 random sequences
+% 100000 of 100000 scores > calibrate_threshold (-1e+20) used (default).
+insert ./hmms/TEST1.N1157.mod
+lambda 0.348844
+tau 0.901863
+sw 0
+dpstyle 0
+jumpinprob 1.000000
+jumpoutprob 1.000000
+subtractnull 4
+FIMmethodscore -6
+insertmethodscore 0
+adjust_score 0
+ENDMODLIBMOD

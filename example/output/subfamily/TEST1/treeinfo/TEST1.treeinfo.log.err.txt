@@ -1,0 +1,1173 @@
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 1.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 1.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 2.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 2.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 3.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 3.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 4.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 4.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 5.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 5.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 6.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 6.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 7.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 7.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 8.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 8.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 9.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 9.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 10.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 10.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 11.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 11.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 12.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 12.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 13.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 13.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 14.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 14.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 15.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 15.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 16.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 16.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 17.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 17.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 18.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 18.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 19.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 19.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 20.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 20.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 21.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 21.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 22.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 22.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 23.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 23.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 24.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 24.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 25.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 25.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 26.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 26.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 27.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 27.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 28.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 28.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 29.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 29.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 30.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 30.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 31.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 31.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 32.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 32.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 33.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 33.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 34.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 34.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 35.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 35.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 36.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 36.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 37.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 37.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 38.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 38.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 39.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 39.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 40.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 40.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 41.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 41.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 42.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 42.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 43.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 43.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 44.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 44.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 45.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 45.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 46.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 46.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 47.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 47.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 48.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 48.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 49.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 49.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 50.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 50.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 51.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 51.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 52.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 52.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 53.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 53.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 54.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 54.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 55.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 55.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 56.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 56.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 57.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 57.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 58.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 58.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 59.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 59.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 60.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 60.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 61.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 61.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 62.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 62.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 63.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 63.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 64.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 64.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 65.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 65.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 66.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 66.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 67.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 67.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 68.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 68.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 69.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 69.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 70.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 70.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 71.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 71.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 72.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 72.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 73.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 73.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 74.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 74.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 75.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 75.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 76.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 76.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 77.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 77.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 78.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 78.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 79.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 79.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 80.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 80.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 81.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 81.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 82.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 82.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 83.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 83.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 84.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 84.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 85.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 85.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 86.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 86.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 87.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 87.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 88.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 88.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 89.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 89.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 90.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 90.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 91.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 91.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 92.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 92.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 93.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 93.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 94.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 94.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 95.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 95.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 96.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 96.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 97.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 97.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 98.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 98.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 99.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 99.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 100.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 100.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 101.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 101.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 102.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 102.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 103.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 103.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 104.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 104.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 105.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 105.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 106.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 106.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 107.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 107.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 108.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 108.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 109.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 109.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 110.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 110.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 111.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 111.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 112.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 112.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 113.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 113.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 114.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 114.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 115.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 115.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 116.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 116.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 117.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 117.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 118.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 118.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 119.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 119.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 120.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 120.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 121.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 121.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 122.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 122.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 123.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 123.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 124.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 124.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 125.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 125.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 126.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 126.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 127.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 127.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 128.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 128.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 129.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 129.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 130.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 130.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 131.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 131.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 132.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 132.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 133.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 133.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 134.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 134.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 135.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 135.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 136.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 136.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 137.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 137.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 138.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 138.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 139.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 139.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 140.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 140.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 141.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 141.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 142.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 142.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 143.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 143.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 144.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 144.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 145.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 145.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 146.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 146.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 147.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 147.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 148.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 148.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 149.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 149.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 150.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 150.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 151.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 151.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 152.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 152.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 153.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 153.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 154.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 154.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 155.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 155.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 156.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 156.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 157.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 157.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 158.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 158.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 159.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 159.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 160.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 160.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 161.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 161.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 162.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 162.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 163.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 163.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 164.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 164.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 165.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 165.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 166.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 166.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 167.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 167.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 168.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 168.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 169.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 169.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 170.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 170.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 171.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 171.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 172.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 172.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 173.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 173.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 174.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 174.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 175.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 175.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 176.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 176.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 177.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 177.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 178.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 178.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 179.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 179.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 180.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 180.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 181.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 181.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 182.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 182.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 183.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 183.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 184.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 184.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 185.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 185.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 186.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 186.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 187.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 187.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 188.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 188.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 189.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 189.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 190.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 190.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 191.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 191.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 192.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 192.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 193.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 193.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 194.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 194.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 195.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 195.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 196.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 196.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 197.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 197.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 198.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 198.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 199.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 199.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 200.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 200.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 201.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 201.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 202.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 202.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 203.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 203.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 204.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 204.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 205.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 205.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 206.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 206.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 207.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 207.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 208.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 208.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 209.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 209.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 210.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 210.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 211.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 211.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 212.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 212.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 213.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 213.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 214.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 214.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 215.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 215.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 216.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 216.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 217.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 217.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 218.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 218.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 219.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 219.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 220.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 220.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 221.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 221.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 222.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 222.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 223.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 223.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 224.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 224.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 225.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 225.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 226.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 226.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 227.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 227.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 228.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 228.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 229.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 229.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 230.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 230.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 231.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 231.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 232.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 232.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 233.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 233.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 234.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 234.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 235.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 235.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 236.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 236.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 237.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 237.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 238.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 238.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 239.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 239.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 240.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 240.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 241.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 241.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 242.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 242.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 243.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 243.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 244.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 244.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 245.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 245.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 246.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 246.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 247.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 247.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 248.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 248.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 249.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 249.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 250.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 250.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 251.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 251.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 252.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 252.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 253.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 253.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 254.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 254.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 255.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 255.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 256.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 256.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 257.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 257.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 258.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 258.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 259.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 259.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 260.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 260.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 261.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 261.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 262.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 262.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 263.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 263.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 264.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 264.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 265.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 265.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 266.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 266.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 267.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 267.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 268.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 268.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 269.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 269.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 270.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 270.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 271.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 271.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 272.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 272.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 273.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 273.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 274.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 274.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 275.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 275.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 276.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 276.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 277.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 277.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 278.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 278.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 279.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 279.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 280.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 280.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 281.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 281.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 282.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 282.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 283.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 283.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 284.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 284.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 285.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 285.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 286.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 286.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 287.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 287.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 288.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 288.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 289.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 289.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 290.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 290.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 291.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 291.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 292.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 292.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 293.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 293.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 294.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 294.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 295.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 295.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 296.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 296.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 297.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 297.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 298.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 298.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 299.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 299.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 300.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 300.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 301.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 301.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 302.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 302.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 303.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 303.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 304.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 304.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 305.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 305.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 306.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 306.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 307.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 307.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 308.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 308.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 309.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 309.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 310.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 310.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 311.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 311.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 312.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 312.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 313.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 313.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 314.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 314.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 315.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 315.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 316.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 316.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 317.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 317.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 318.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 318.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 319.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 319.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 320.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 320.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 321.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 321.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 322.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 322.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 323.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 323.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 324.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 324.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 325.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 325.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 326.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 326.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 327.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 327.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 328.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 328.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 329.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 329.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 330.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 330.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 331.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 331.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 332.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 332.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 333.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 333.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 334.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 334.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 335.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 335.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 336.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 336.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 337.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 337.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 338.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 338.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 339.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 339.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 340.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 340.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 341.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 341.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 342.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 342.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 343.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 343.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 344.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 344.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 345.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 345.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 346.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 346.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 347.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 347.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 348.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 348.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 349.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 349.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 350.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 350.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 351.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 351.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 352.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 352.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 353.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 353.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 354.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 354.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 355.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 355.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 356.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 356.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 357.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 357.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 358.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 358.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 359.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 359.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 360.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 360.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 361.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 361.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 362.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 362.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 363.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 363.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 364.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 364.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 365.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 365.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 366.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 366.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 367.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 367.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 368.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 368.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 369.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 369.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 370.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 370.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 371.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 371.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 372.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 372.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 373.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 373.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 374.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 374.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 375.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 375.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 376.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 376.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 377.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 377.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 378.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 378.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 379.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 379.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 380.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 380.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 381.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 381.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 382.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 382.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 383.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 383.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 384.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 384.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 385.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 385.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 386.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 386.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 387.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 387.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 388.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 388.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 389.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 389.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 390.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 390.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 391.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 391.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 392.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 392.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 393.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 393.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 394.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 394.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 395.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 395.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 396.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 396.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 397.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 397.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 398.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 398.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 399.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 399.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 400.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 400.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 401.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 401.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 402.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 402.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 403.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 403.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 404.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 404.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 405.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 405.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 406.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 406.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 407.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 407.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 408.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 408.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 409.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 409.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 410.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 410.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 411.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 411.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 412.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 412.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 413.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 413.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 414.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 414.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 415.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 415.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 416.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 416.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 417.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 417.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 418.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 418.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 419.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 419.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 420.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 420.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 421.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 421.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 422.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 422.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 423.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 423.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 424.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 424.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 425.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 425.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 426.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 426.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 427.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 427.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 428.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 428.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 429.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 429.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 430.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 430.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 431.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 431.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 432.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 432.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 433.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 433.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 434.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 434.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 435.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 435.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 436.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 436.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 437.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 437.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 438.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 438.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 439.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 439.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 440.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 440.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 441.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 441.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 442.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 442.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 443.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 443.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 444.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 444.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 445.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 445.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 446.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 446.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 447.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 447.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 448.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 448.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 449.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 449.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 450.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 450.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 451.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 451.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 452.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 452.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 453.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 453.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 454.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 454.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 455.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 455.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 456.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 456.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 457.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 457.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 458.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 458.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 459.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 459.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 460.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 460.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 461.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 461.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 462.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 462.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 463.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 463.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 464.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 464.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 465.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 465.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 466.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 466.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 467.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 467.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 468.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 468.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 469.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 469.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 470.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 470.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 471.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 471.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 472.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 472.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 473.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 473.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 474.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 474.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 475.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 475.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 476.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 476.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 477.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 477.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 478.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 478.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 479.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 479.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 480.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 480.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 481.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 481.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 482.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 482.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 483.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 483.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 484.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 484.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 485.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 485.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 486.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 486.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 487.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 487.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 488.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 488.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 489.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 489.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 490.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 490.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 491.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 491.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 492.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 492.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 493.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 493.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 494.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 494.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 495.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 495.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 496.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 496.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 497.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 497.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 498.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 498.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 499.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 499.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 500.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 500.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 501.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 501.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 502.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 502.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 503.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 503.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 504.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 504.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 505.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 505.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 506.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 506.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 507.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 507.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 508.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 508.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 509.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 509.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 510.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 510.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 511.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 511.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 512.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 512.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 513.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 513.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 514.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 514.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 515.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 515.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 516.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 516.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 517.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 517.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 518.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 518.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 519.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 519.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 520.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 520.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 521.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 521.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 522.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 522.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 523.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 523.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 524.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 524.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 525.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 525.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 526.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 526.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 527.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 527.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 528.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 528.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 529.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 529.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 530.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 530.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 531.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 531.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 532.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 532.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 533.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 533.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 534.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 534.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 535.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 535.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 536.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 536.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 537.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 537.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 538.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 538.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 539.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 539.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 540.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 540.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 541.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 541.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 542.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 542.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 543.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 543.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 544.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 544.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 545.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 545.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 546.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 546.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 547.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 547.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 548.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 548.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 549.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 549.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 550.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 550.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 551.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 551.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 552.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 552.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 553.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 553.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 554.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 554.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 555.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 555.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 556.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 556.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 557.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 557.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 558.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 558.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 559.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 559.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 560.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 560.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 561.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 561.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 562.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 562.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 563.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 563.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 564.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 564.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 565.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 565.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 566.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 566.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 567.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 567.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 568.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 568.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 569.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 569.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 570.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 570.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 571.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 571.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 572.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 572.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 573.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 573.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 574.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 574.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 575.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 575.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 576.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 576.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 577.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 577.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 578.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 578.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 579.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 579.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 580.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 580.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 581.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 581.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 582.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 582.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 583.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 583.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 584.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 584.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 585.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 585.
+Use of uninitialized value $desc in pattern match (m//) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 29, <ANN> line 586.
+Use of uninitialized value $desc in substitution (s///) at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 30, <ANN> line 586.
+Not found common_tax_id FOR uniref_id=UniRef100_A0A0D8HMT3 at /usr/local/bioinfo/bioinfoutilities/getTreeInfo.pl line 144.
