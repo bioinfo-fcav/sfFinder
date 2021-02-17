@@ -26,8 +26,12 @@
 #  http://www.fcav.unesp.br 
 #
 
+mkdir -p ../example/output
+
 #To run mkFProfiles.sh using a list of proteins from two families for profiles identification
 ./mkFProfiles.sh ../example/test.txt ../example/output
+
+mkdir -p ../example/mapping
 
 #To run sfMapper.sh using "hmmscore" mode for mapping family/subfamily information
 ./sfMapper.sh hmmscore ../example/TEST.fa ../example/output ../example/mapping
