@@ -104,6 +104,14 @@ sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_databas
 sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_database /path_to/output_mapping
 ```
 
+# sfCombine.sh
+
+This tool combines mapping results using diamond and hmmscore modes.
+
+```bash=
+sfCombine.sh /path_to/unknown_proteins.fa /path_to/output_profile_database /path_to/output_mapping /path_to/output_combination
+```
+
 ## Example
 
 In the sfFinder "bin/" directory you can see the script run_example.sh. You can run it to see if the
