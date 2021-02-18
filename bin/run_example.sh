@@ -38,3 +38,6 @@ mkdir -p ../example/mapping
 #To run sfMapper.sh using "diamond" mode for mapping family/subfamily information
 ./sfMapper.sh diamond ../example/TEST.fa ../example/output ../example/mapping
 
+#To combine results of sfMapper.sh results using diamond and hmmscore modes
+./sfCombine.sh ../example/TEST.fa ../example/output ../example/mapping ../example/mapping
+
