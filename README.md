@@ -47,9 +47,9 @@ chmod a+x *.pl *.py
 - Create a symlink for BPG_utilities/make_nr_at_100_with_dict.py in flowerpower directory (must be in the $PATH);
 
 
-## Input
+## Usage
 
-# sfFinder.sh
+### sfFinder.sh
 
 The input is the protein family name, the formatted protein sequence(s) fasta file and the output directory:
 
@@ -81,7 +81,7 @@ esearch -db protein -query ABM79805.1 | efetch -db protein -format fasta >> ./AL
 ls /path_to/outdir/ALKB.fa
 ```
 
-# mkFProfiles.sh
+### mkFProfiles.sh
 
 If you prefer, for multiple family entries, you can use the following pipeline to execute automatically the 
 getProteinByID.pl and, also, generates the profiles using sfFinder.sh:
@@ -90,7 +90,7 @@ getProteinByID.pl and, also, generates the profiles using sfFinder.sh:
 mkFProfiles.sh /path_to/familyentries.txt /path_to/output_profile_database
 ```
 
-# sfMapper.sh
+### sfMapper.sh
 
 This tool maps the protein family and subfamily information for a dataset of unknown proteins.
 You can use protein alignment search using "diamond":
@@ -104,7 +104,7 @@ sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_databas
 sfMapper.sh diamond /path_to/unknown_proteins.fa /path_to/output_profile_database /path_to/output_mapping
 ```
 
-# sfCombine.sh
+### sfCombine.sh
 
 This tool combines mapping results using diamond and hmmscore modes.
 
