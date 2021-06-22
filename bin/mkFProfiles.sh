@@ -163,7 +163,7 @@ for famdir in ${outdir}/subfamily/*; do
 			
 			echo "Getting complementary attributes for trees ..."
 
-			addTreeInfo.pl	${famdir}/flowerpower/fp-workspace/final/last.tree \
+			getTreeInfo.pl	${famdir}/flowerpower/fp-workspace/final/last.tree \
 					${UNIREF_DESCRIPTION} \
 					${famdir}/treeinfo/${famname}.treeinfo.txt \
 					${famdir}/flowerpower/fp-workspace/final/last.subfam \
